@@ -1,4 +1,4 @@
-Hello, I’m Nikhil. A third-year engineering undergrad at BITS Pilani, India.
+Hello, I’m third-year engineering undergrad at BITS Pilani, India.
 
 - interested in developing tech that drives maximum impact.
 
