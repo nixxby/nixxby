@@ -2,7 +2,7 @@ Hello, I’m a fourth-year engineering undergrad at BITS Pilani, India.
 
 - interested in developing tech that drives maximum impact.
 
-- currently learning ML, Computer Vision & NLP.
+- currently learning CyberSecurity, Computer Vision & NLP.
 
 - can collaborate on tech ideas that serve a big industry problem. 
 
