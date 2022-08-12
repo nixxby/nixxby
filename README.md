@@ -2,7 +2,7 @@ Hello, I’m a fourth-year engineering undergrad at BITS Pilani, India.
 
 - interested in developing tech that drives maximum impact.
 
-- currently learning CyberSecurity, Computer Vision & NLP.
+- recently got interested into unifying ML frameworks. Check out [Ivy](https://github.com/unifyai/ivy) for more details 
 
 - can collaborate on tech ideas that serve a big industry problem. 
 
